@@ -42,3 +42,6 @@ registerRoute(
     ],
   })
 );
+
+// used for all other requests
+offlineFallback();
